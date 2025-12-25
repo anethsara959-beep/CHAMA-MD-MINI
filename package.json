@@ -8,7 +8,7 @@
     "build": "npm install --legacy-peer-deps"
   },
   "dependencies": {
-    "baileys": "npm:dgxeon-soket@^4.0.0",
+      "baileys": "github:Piko86/BlazeXBaileys",
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
     "pino": "^8.17.0",
